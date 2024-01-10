@@ -1,4 +1,18 @@
-.body{
+body{
     background-color:#000000;
 }
-
+h1{
+    color: #DDDDDD;
+}
+h2{
+    color: #DDDDDD;
+}
+p{
+    color: #DDDDDD;
+}
+nav{
+    background-color: #333333;
+    a{
+        color: #BBBBBB;
+    }
+}
